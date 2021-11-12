@@ -7,8 +7,8 @@ import Blog from "./Pages/Blog/blog";
 import Register from "./Pages/Signup/Signup";
 import Login from "./Pages/Login/Login";
 import Survey from "./Components/Survey/Survey";
-import Search from "./Pages/Search/Search";
-import Diet from "./Pages/Diet/Diet";
+import Search from "./Pages/Search/search";
+import Diet from "./Pages/Diet/diet";
 
 function App() {
   return (

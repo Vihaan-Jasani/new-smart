@@ -1,6 +1,6 @@
 import React from "react";
 import "../Blog/blog.css";
-import Blogcomp from "../../Components/BlogComp";
+import Blogcomp from "../../Components/Blogcomp";
 import pic1 from "../../Assets/Blogs/pic1.jpg";
 import pic2 from "../../Assets/Blogs/pic2.jpg";
 import pic3 from "../../Assets/Blogs/pic3.jpg";

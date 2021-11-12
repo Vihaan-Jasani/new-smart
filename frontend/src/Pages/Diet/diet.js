@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import Navbar from "../../Components/Navbar/Navbar";
 import Content from "../../Components/Diet/Content";
 import { exportComponentAsPNG } from "react-component-export-image";
-import "./Diet.css";
+import "./diet.css";
 // import Secondcontent from "../../Components/Diet/Secondcontent";
 
 function Diet() {

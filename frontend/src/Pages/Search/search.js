@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "../../Components/Navbar/Navbar";
 import axios from "axios";
-import "./Search.css";
+import "./search.css";
 import Alert from "../../Components/Search/Alert";
 import Recipe from "../../Components/Search/Recipe";
 
